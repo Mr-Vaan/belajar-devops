@@ -1,6 +1,4 @@
 # maven-project
-Source code for James Lee's Jenkins course.
+This repo is needed as a dummy Maven project for RezaAW's Pretty-Simple-and-Small DevOps Project.
 
-Check out our Latest DevOps PDF book.
-
-https://www.level-up.one/devops-pdf-book
+This source code was taken from James Lee's repo (https://github.com/jleetutorial/maven-project), with some minor adjustments.
