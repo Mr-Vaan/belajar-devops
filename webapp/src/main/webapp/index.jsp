@@ -1,2 +1,2 @@
 Hello, World!
-Editted by drip gang 2021
+</br>Copyright by drip gang 2021
